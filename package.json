@@ -1,0 +1,23 @@
+{
+  "name": "ninjafood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css":"tailwind css build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khushi-Mattu/NinjaFood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khushi-Mattu/NinjaFood/issues"
+  },
+  "homepage": "https://github.com/Khushi-Mattu/NinjaFood#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
